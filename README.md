@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashot Zaqoyan 🇦🇲</h1>
 <h3 align="center">Full-stack developer from Armenia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashotzaqoyan" alt="ashotzaqoyan" /></a> </p>
-
 - 🔭 I’m currently working on [my startup On The Road](http://ontheroad.am/)
 
 - 🌱 I’m currently learning **AI/ML**
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashotzaqoyan&show_icons=true&locale=en&layout=compact" alt="ashotzaqoyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashotzaqoyan&show_icons=true&locale=en" alt="ashotzaqoyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashotzaqoyan&" alt="ashotzaqoyan" /></p>
