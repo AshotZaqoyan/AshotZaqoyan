@@ -17,9 +17,3 @@
 <a href="https://fb.com/ashotza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashotza" height="30" width="40" /></a>
 <a href="https://instagram.com/ashot__za" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashot__za" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashotzaqoyan&show_icons=true&locale=en&layout=compact" alt="ashotzaqoyan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashotzaqoyan&" alt="ashotzaqoyan" /></p>
